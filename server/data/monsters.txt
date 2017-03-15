@@ -1,0 +1,76 @@
+020000 *******************************
+$ names_begin
+shaman
+orc
+#
+
+$ attr_begin
+gname Orc Shaman >
+type 1
+dispName The High Orc Shaman >
+plural High Orc Shamen >
+looks The Orc Shaman looks back at you in disgust! >
+#
+
+$ cmds_begin
+kill kneel
+#
+
+$ ai_begin
+move missile
+#
+
+$ items_begin
+3 -1
+
+020001 *******************************
+$ names_begin
+lialah
+orc
+orcwife
+#
+
+$ attr_begin
+gname Lialah >
+type 1
+dispName Lialah the Orc Wife >
+plural Orc Wives >
+looks Lialah looks at you suspiciously. >
+#
+
+$ cmds_begin
+kill
+#
+
+$ ai_begin
+move 
+#
+
+$ items_begin
+1 -1
+
+020002 *******************************
+$ names_begin
+goat
+#
+
+$ attr_begin
+gname mountain goat >
+type 1
+dispName A white horned mountain goat >
+plural white horned mountain goats >
+looks An innocent looking creature, grazing in its own tune. >
+#
+
+$ cmds_begin
+kill
+#
+
+$ ai_begin
+move 
+#
+
+$ items_begin
+-1
+
+

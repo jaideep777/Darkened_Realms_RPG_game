@@ -1,0 +1,23 @@
+$ attr_begin
+name talena
+ansi 1
+currentPos 0
+displayName Talena
+life -48
+
+$ alias_begin
+d down
+e east
+i inventry
+k kill
+l look
+n north
+s south
+u up
+w west
+#
+
+$ items_begin
+0 3 3 2 -1
+
+$ end

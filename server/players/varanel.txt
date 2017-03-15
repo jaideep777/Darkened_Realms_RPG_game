@@ -1,0 +1,22 @@
+$ attr_begin
+name varanel
+ansi 1
+currentPos 0
+displayName Varanel
+life -124
+
+$ alias_begin
+d down
+e east
+i inventry
+l look
+n north
+s south
+u up
+w west
+#
+
+$ items_begin
+0 2 2 3 -1
+
+$ end

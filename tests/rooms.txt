@@ -1,0 +1,9 @@
+0
+0 0 0
+This is room 000. uoy should not be here. hahahahahahahahahaha.
+out 0 0 1 east 1 0 0 .
+
+1
+1 0 0
+This is the room #yeast #wof #rthe forbidden room#w.
+forbidden_room 0 0 0 west 0 0 0 down 0 0 -1 .

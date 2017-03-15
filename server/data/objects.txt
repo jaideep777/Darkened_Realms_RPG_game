@@ -1,0 +1,96 @@
+010000 ****************************
+$ names_begin
+scroll
+#
+
+$ attr_begin
+type 1
+dispName A scroll >
+pluralName scrolls >
+looks An old and tampered scroll, seems to be lying here since eternity. You may !n
+still be able to read it. >
+#
+
+$ cmds_begin
+read
+#
+
+010001 ****************************
+$ names_begin
+leaf
+#
+
+$ attr_begin
+type 2
+dispName A Leaf of Telperion >
+pluralName leaves of Telperion >
+looks A shining silver leaf of Teleprion. Ancient lore says that it turns into !n
+salve in the hands he who is of a pure mind. >
+#
+
+$ cmds_begin
+crush
+#
+
+010002 ****************************
+$ names_begin
+salve
+#
+
+$ attr_begin
+type 2
+dispName Salve >
+pluralName salve >
+looks A crushed leaf of Telperion which may be "applied" to wounds >
+#
+
+$ cmds_begin
+apply
+#
+
+010003 ****************************
+$ names_begin
+trident
+#
+
+$ attr_begin
+type 2
+dispName A Trident >
+pluralName Tridents >
+looks A glowing trident which reads "ahheec durlama jaspla" >
+#
+
+$ cmds_begin
+#
+
+010004 ****************************
+$ names_begin
+tree
+#
+
+$ attr_begin
+type 2
+dispName An #RApple #GTree#w >
+pluralName apple trees >
+looks It is filled with apples >
+#
+
+$ cmds_begin
+#
+
+010005 ****************************
+$ names_begin
+tree
+#
+
+$ attr_begin
+type 2
+dispName A #MMagic #BFountain#w >
+pluralName apple trees >
+looks It is filled with water >
+#
+
+$ cmds_begin
+#
+
+

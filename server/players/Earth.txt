@@ -1,0 +1,22 @@
+$ attr_begin
+name Earth
+ansi 1
+currentPos 0
+displayName Earth
+life 100
+
+$ alias_begin
+e east
+w west
+n north
+s south
+l look
+i inventry
+d down
+u up
+#
+
+$ items_begin
+-1
+
+$ end

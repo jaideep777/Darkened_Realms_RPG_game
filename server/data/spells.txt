@@ -1,0 +1,17 @@
+0 *************************
+$ attr_begin
+name bolt
+damage 24
+mantra 
+#CYou say: #wPower and Energy stream through Me! !n
+#YA streak of Lightening shoots from your hand and strikes __enemy__ #w !n !n >
+
+1 *************************
+$ attr_begin
+name fireball
+damage 40
+mantra 
+#CYou say: #wFire from my hand strike my enemy, Let them burn in pain and fury!  !n
+#BA a large ball of fire leaves your hand and strikes __enemy__ !n !n #w >
+
+

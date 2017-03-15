@@ -1,0 +1,64 @@
+make monster follow active player
+blood trails?
+follow allow
+when player attacks monster/monster attacks player, each put each other in their lists.. when player dies/quits, he shud be removed from all monsters' lists, vice versa ------DONE
+*************************************************************************************************
+event : some game parameters change, player's attributes may change, 
+		something will be shown to some players, 
+		something else will be shown to other players
+
+1	"tell ... hi ..."			is not specific to room, is understood by all players in game
+2	"say ...." "firecracker"	trigger an event
+3	"cough" "laugh"				cause player to do something
+4	"e" "w"						are understood by room, to exit, can be considered event causers?
+5	"kill ..." "<spell ...>"	are understood by players AND monsters IN room
+6	"look" "lore"				are so universal they are understood by all Entities
+7 	"give 50 gold coins to ..."	how to handle?
+8	"unlock door with key"		how to parse and handle?
+9	"sell"						should it be understood by item or shop?
+10	"leap out"					no object, who will understand this command?
+11	"<spell> monster"			active monster must be attacked, same as [5]
+12	"sac corpse"				understood by all corpses!!
+13	"kick <player>"				??
+
+classification by number of words:
+command	min	max
+tell	2	inf
+e		1	1
+say		2	inf
+cough	1	1
+kill	2	2
+
+search in player cmd list: (2 words)
+<spells> --> translate to kill
+kiss ...
+kick ...
+tell ...
+slap ...
+tease ...  etc
+
+1 word:			// look in room list or player list?
+cough
+laugh
+cackle
+e
+w
+s
+n
+bridge etc exits
+
+3 words:
+
+
+search in room list:
+
+
+###
+if cmd = 1 word     search in room list then in player list
+if cmd >= 2 word     search in objects in room
+else search special commands
+
+l orc 2 ??
+unlock chest
+
+

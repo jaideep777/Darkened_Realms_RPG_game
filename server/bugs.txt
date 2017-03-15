@@ -1,0 +1,7 @@
+game crashes when 1 player is link dead ________FIXED
+saving of items incorrect.. perhaps by total_gameID _______FIXED
+monsters injured/bleeding after respawned ________FIXED
+full disconnect not yet achieved ?? __________found
+tf recv delay-> bcos text goes into cmd space ??? _______FOUND
+gmud spaces
+
